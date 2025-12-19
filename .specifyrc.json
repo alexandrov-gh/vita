@@ -1,5 +1,5 @@
 {
-  "repository": "@vita/tokens",
+  "repository": "@vita/vita_tokens",
   "head": "specifyrc-json",
   "base": "main",
   "version": "2",
